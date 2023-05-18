@@ -1,0 +1,30 @@
+body
+{
+    background: url("bg.jpg");
+    background-size: cover;
+  text-align : center;
+}
+
+canvas
+{
+border: 2px solid black;
+}
+
+#dl
+{
+    float:right;
+}
+
+h1
+{
+    color: rgb(38, 0, 255);
+    position : absolute;
+  left : 525px;
+}
+#clear 
+{
+  width : 60px;
+  height : 20px;
+  font-size : 12px;
+  top: 150px;
+}
